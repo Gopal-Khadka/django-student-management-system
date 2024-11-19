@@ -1,12 +1,5 @@
-# Django Student Management System (beta)
+# Django Student Management System
 This is a Simple Student Management System Developed for Educational Purpose using Python (Django).
-Feel free to make changes based on your requirements.
-
-[Project Demo on YouTube](https://www.youtube.com/watch?v=kArCR96m7uo "Django Student Management System Demo")
-
-I've created this project while learnging Django and followed tutorial series from **SuperCoders**
-
-And if you like this project then ADD a STAR ⭐️  to this project 👆
 
 ## Features of this Project
 
@@ -36,18 +29,20 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 5. Send Feedback to HOD
 
 
-## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
+## Libraries & Tools Used
+1. Django: The primary framework used to build the backend of the application.
+2. Font Awesome: A library of scalable vector icons, used to add icons to buttons, navigation bars, and other UI elements.
+3. Ionicons: Another icon library, typically used for mobile-first web applications, providing additional icons for enhanced visual appeal.
+4. Tempusdominus: A datetime picker library that allows users to select dates and times in a user-friendly interface.
+5. iCheck: Customizes the appearance of checkboxes and radio buttons to fit the application’s theme.
+6. JQVMap: A jQuery plugin for embedding interactive vector maps, ideal for displaying location-based data.
+7. AdminLTE: A responsive admin dashboard template that simplifies the creation of modern, attractive administrative interfaces.
+8. OverlayScrollbars: Provides customizable, scrollable areas to improve the appearance of content-heavy pages.
+9. Daterangepicker: A component for selecting date ranges, useful for reporting and event-based applications.
+10. Summernote: A lightweight WYSIWYG editor for adding rich text, images, and other media to form fields.
+11. Google Fonts: Uses the Source Sans Pro font to ensure clean, modern typography across the web pages.
 
 
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
 
 
 ## How to Install and Run this project?
@@ -63,6 +58,8 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 [ https://pip.pypa.io/en/stable/installing/ ]
 
 *Alternative to Pip is Homebrew*
+
+
 
 ### Installation
 **1. Create a Folder where you want to save the project**
@@ -99,7 +96,7 @@ $  source venv/bin/activate
 
 **3. Clone this project**
 ```
-$  git clone https://github.com/vijaythapa333/django-student-management-system.git
+$  git clone https://github.com/Gopal-Khadka/django-student-management-system.git
 ```
 
 Then, Enter the project
@@ -155,10 +152,4 @@ Password: staff
 *For Student*
 Email: student@gmail.com
 Password: student
-
-
-
-## For Sponsor or Projects Enquiry
-1. Email - hi@vijaythapa.com
-2. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa "Vijay Thapa on LinkedIn")
 
