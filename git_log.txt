@@ -1,0 +1,71 @@
+2024-11-19 | Gopal Khadka | Add docs
+2024-11-19 | Gopal Khadka | Update README
+2024-11-19 | Gopal Khadka | Update README
+2024-11-18 | Gopal Khadka | Update files
+2024-11-11 | Gopal Khadka | Update footers
+2024-12-26 | Gopal Khadka| Update README.md
+2024-12-03 | Gopal Khadka| Update README.md
+2024-10-09 | Gopal Khadka| Update README.md
+2024-10-05 | Gopal Khadka| Update README.md
+2024-07-10 | Gopal Khadka| Update README.md
+2024-07-09 | Gopal Khadka| final touch
+2024-07-09 | Gopal Khadka| Avatar Changed
+2024-07-08 | Gopal Khadka| Update README.md
+2024-07-08 | Gopal Khadka| Update README.md
+2024-07-08 | Gopal Khadka| features added
+2024-07-08 | Gopal Khadka| Update README.md
+2024-07-08 | Gopal Khadka| Update README.md
+2024-07-08 | Gopal Khadka| Update README.md
+2024-07-08 | Gopal Khadka| Update README.md
+2024-07-08 | Gopal Khadka| Update README.md
+2024-07-08 | Gopal Khadka| detail update
+2024-07-08 | Gopal Khadka| Readme.md
+2024-07-08 | Gopal Khadka| Requirements file Added Suuccessfully
+2024-07-08 | Gopal Khadka| Updatede Students vs Staff Visualize on admin
+2024-07-07 | Gopal Khadka| Updated Sidebar Logo and URL
+2024-07-07 | Gopal Khadka| Delete functionality added on all modules
+2024-07-07 | Gopal Khadka| Icons and Add Buttons Added
+2024-07-07 | Gopal Khadka| update
+2024-07-07 | Gopal Khadka| Student View Result Complete
+2024-07-07 | Gopal Khadka| Add Result on Staff Panel Complete
+2024-07-05 | Gopal Khadka| Admin Dashboard Complete
+2024-07-05 | Gopal Khadka| Staff Dashboard Complete
+2024-07-05 | Gopal Khadka| Student Dashboard Completed
+2024-07-04 | Gopal Khadka| Added Icons to navigation
+2024-07-04 | Gopal Khadka| Update Profile Completed
+2024-07-04 | Gopal Khadka| Profile Update on Staff and Student Completed
+2024-07-04 | Gopal Khadka| Admin Profile Update Complete
+2024-07-03 | Gopal Khadka| Admin View Attendance Complete
+2024-07-03 | Gopal Khadka| Staff Leave Approve/Reject Complete
+2024-07-03 | Gopal Khadka| Student Leave Approve and Disapprove Complete
+2024-07-01 | Gopal Khadka| Reply Feedback to Staff and Student usign AJAX completed
+2024-07-01 | Gopal Khadka| Check Email and Username Availability using Ajax complete
+2024-07-01 | Gopal Khadka| Apply Leave and Send Feedback by Students Completed
+2024-06-30 | Gopal Khadka| Student Attendance Data View by Date Range Done
+2024-06-27 | Gopal Khadka| Feedback for Staff Completed
+2024-06-27 | Gopal Khadka| Leave History Displayed on Staff Panel
+2024-06-27 | Gopal Khadka| Staff Leave Apply Completed
+2024-06-27 | Gopal Khadka| Displying Present/Absent
+2024-06-27 | Gopal Khadka| Display and Update Student Attendance on Staff Completed
+2024-06-25 | Gopal Khadka| Comments on Attendance FEatures
+2024-06-25 | Gopal Khadka| Attendance Feature Added on Staff Panel using AJAX
+2024-06-25 | Gopal Khadka| Session Year Added on Student Module
+2024-06-25 | Gopal Khadka| Session Year Module Add/Update/Display Completed
+2024-06-24 | Gopal Khadka| Added Page Restriction and Redirection to REspective Pages
+2024-06-24 | Gopal Khadka| Add and Edit completed for Students using Django Forms
+2024-06-24 | Gopal Khadka| Active Class set on Sidebar while Editing
+2024-06-24 | Gopal Khadka| Added Active Link on Sidebar
+2024-06-23 | Gopal Khadka| Image Upload on Add/Update Student Completed
+2024-06-22 | Gopal Khadka| updated_at changed to auto_now from auto_now_add on all Models
+2024-06-22 | Gopal Khadka| Edit for Course and Subject Completed
+2024-06-22 | Gopal Khadka| Edit Student Completed
+2024-06-22 | Gopal Khadka| Edit Staff Completed
+2024-06-22 | Gopal Khadka| Completed Displaying Staffs, Students, Courses, Subjects
+2024-06-22 | Gopal Khadka| Add Subject Comlpeted
+2024-06-22 | Gopal Khadka| Login Check and Redirect to Respective Dashboard
+2024-06-22 | Gopal Khadka| Add Student Completed
+2024-06-22 | Gopal Khadka| Add Course Completed
+2024-06-22 | Gopal Khadka| Add Staff Completed
+2024-06-21 | Gopal Khadka| Custom User Authentication, Login and Logout Completed
+2024-06-21 | Gopal Khadka| Admin Template Added Successfully
+2024-06-21 | Gopal Khadka| Student Management System Initiated and Database Created
